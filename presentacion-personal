@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRESENTACION PERSONAL</title>
+</head>
+<body>
+
+    <h1>PRESENTACION PERSONAL</h1>
+
+    <p><mark><strong>Usuario Ipasen</strong></mark> <strong>SORTPER2101</strong> <br> <mark><strong>Localidad</strong></mark> <strong>Benacazon/Sevilla</strong></p>
+        <img src="https://www.benacazon.es/export/sites/benacazon/.galleries/imagenes-cabeceras/cabecera-q.jpg_2052203873.jpg" alt="foto benacazon"
+        style="width: 1000px; height: 300px;">
+
+    <p><mark><strong>¿Qué te motivó a elegir el curso de Desarrollo de Aplicaciones Web?</strong></mark> <br> Lo que me motivó a elegir este curso es el hecho de especializarme y desarrollarme en la creación de páginas web, ya sea su desarrollo y estructura, tanto en su diseño, principalmente me gusta mas la parte de diseño web. </p>
+    <p><mark><strong>¿Qué esperas aprender en este curso?</strong></mark> <br> Pues como dije anteriormente me gusta el desarrollo y diseño de páginas web, por ello espero que este curso me prepare para poder controlar lenguajes que me hagan falta para ello.</p>
+    <p><mark><strong>¿Tienes alguna experiencia previa en programación o diseño web?</strong></mark> <br> Si, peor muy poca, de programación no tengo mucha, he hecho dos cursos (de CSS y JAVA) de <a href="https://www.w3schools.com/">W3School</a> cuando comenzamos la FCT y de diseño web solamente modo gráfico en Wordpress. </p> 
+    <p><mark><strong>¿Cuáles son tus aficiones o pasatiempos favoritos?</strong></mark> <br> Pues yo entreno en el equipo de futbol de mi pueblo (Benacazon) y pues los dias de entrenamiento me voy al campo de futbol a entrenar y los fines de semana tenemos partido, tambine hago calistenia los dias que no entreno con el equipo, y mi pasatiempo favorito a parte de mis aficiones dichas anteriormente es escuchar musica, ver videos en el ordenador y jugar videojuegos. </p>
+    <p><mark><strong>¿Has trabajado en algún proyecto o aplicación anteriormente?</strong></mark> <br> Pues si, en el curso pasado tuvimos que hacer una página web en Wordpress, pero era todo en entorno gráfico, pero, por mi cuenta, hize una calculadora muy sencilla para movil con android studio. </p>
+    <p><mark><strong>¿Dónde te ves en 5 años?</strong></mark> <br> Pues me veo trabajando de forma autonoma en desarrollo y mantenimiento de páginas webs y de aplicaciones </p>
+    <p><mark><strong>¿Algún dato curioso o algo que quieras compartir con la clase?</strong></mark> <br> Pues nada importante en resumen me gusta hacer mucho ejercicio desde pequeño he hecho siempre algo, como futbol, muay-thai, calistenia, balonmano... Me encanta escuchar musica y jugar a videojuegos.</p> 
+    
+</body>
+</html>
